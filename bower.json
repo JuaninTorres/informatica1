@@ -1,0 +1,11 @@
+{
+  "name": "Informatica Educativa 1",
+  "dependencies": {
+    "jquery": "~1.*",
+    "bootstrap": "~3.3.*",
+    "jquery-ui": "~1.*",
+    "respond":"~1.4.*",
+    "html5shiv": "~3.*",
+    "modernizr": "~2.*"
+  }
+}
