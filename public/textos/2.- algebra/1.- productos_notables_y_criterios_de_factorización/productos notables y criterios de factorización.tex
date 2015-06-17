@@ -1,0 +1,123 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Nicolás González Martínez}
+\title{Productos Notables y Criterios de Factorización}
+\begin{document}
+\maketitle
+Se llama $Productos Notables$ a ciertos productos de polinomios que cumplen reglas fijas y cuyo resultado puede ser escrito de por simple inspección, es decir, sin verificar la multiplicación. \\\\
+\textbf{Cuadrado de la suma}\\\\
+Elevar al cuadrado $(a+b)$ equivale a multiplicar este binomio por si mismo, y como resultado obtendremos: \\\\
+$(a+b)^{2}=(a+b)(a+b)= a \cdot (a+b) +  b \cdot (a+b)  =a^{2}+ab+ba+b^{2}=a^{2}+ab+ab+b^{2}=a^{2}+2ab+b^{2}$ \\\\ Luego, el cuadrado de la suma de dos monomios es igual al cuadrado del primer monomio más el doble del producto del primer monomio por el segundo más el cuadrado del segundo. \\\\
+\textbf{Ejemplos:}\\\\
+Desarrollar $(x+4)^{2}$ \\\\
+Forma larga: $(x+4)^{2}=(x+4)(x+4)= x \cdot (x+4) +  4 \cdot (x+4)  =x^{2}+x4+4x+4^{2}=x^{2}+4x+4x+4^{2}=x^{2}+8x+16$ \\\\
+Forma corta: $(x+4)^{2}=x^{2}+2\cdot x \cdot 4 + 4^{2}=x^{2}+8x+16$ \\\\
+\textbf{Cuadrado de la Diferencia:} \\\\
+Elevar al cuadrado $(a-b)$ equivale a multiplicar este binomio por si mismo, y como resultado obtendremos: \\\\
+$(a-b)^{2}=(a-b)(a-b)= a \cdot (a-b) -  b \cdot (a-b)  =a^{2}-ab-ba+b^{2}=a^{2}-ab-ab+b^{2}=a^{2}-2ab+b^{2}$ \\\\ Luego, el cuadrado de la diferencia de dos monomios es igual al cuadrado del primer monomio menos el doble del producto del primer monomio por el segundo más el cuadrado del segundo. \\\\
+\textbf{Ejemplos:} \\\\
+Desarrollar  $(z-7)^{2}$ \\\\
+Forma larga: $(z-7)^{2}=(z-7)(z-7)= z \cdot (z-7) -7 \cdot (z-7)  =z^{2}-z7-7z+7^{2}=z^{2}-7z-7z+7^{2}=z^{2}-14x+49$ \\\\
+Forma corta: $(z-7)^{2}=z^{2}+2\cdot z \cdot 7 + 7^{2}=z^{2}-14z+49$\\\\
+\textbf{Productos de dos binomios conjugados:} \\\\
+Sea el Producto $(a+b)(a-b)$. Efectuando esta multiplicación obtenemos \\\\
+$(a+b)(a-b)=a \cdot (a-b) + b \cdot (a-b)=a^{2}-ab+ba-b^{2}=a^{2}-ab+ab-b^{2}=a^{2}-b^{2}$. \\\\
+Concluyendo, la suma de dos monomios multiplicadas por su conjugado es igual a la diferencia de sus cuadrados. \\\\
+\textbf{Ejemplos:} \\\\
+Desarrollar $(x+4)(x-4)$ \\\\
+Forma larga: $(x+4)(x-4)=x \cdot (x-4) + 4 \cdot (x-4) = x^{2}-x4+4x-4^{2}=x^{2}-4x+4x-16=x^{2}-16$ \\\\
+Forma corta: $(x+4)(x-4)=x^{2}-4^{2}=x^{2}-16$\\\\
+observación: $(x+4)(x-4)=(x-4)(x+4)$ \\\\
+\textbf{Suma de cubo de binomio:} \\\\
+Dado el producto $(a+b)^{3}$ podemos escribirlo como $(a+b)(a+b)(a+b)=(a+b)(a+b)^{2}$. Desarrollando esta multiplicación obtenemos: \\\\
+$(a+b)^{3} \\
+=(a+b)(a+b)^{2} \\ 
+=(a+b)(a^{2}+2ab+b^{2}) \\
+=a \cdot a^{2} + a \cdot 2ab + a \cdot b^{2} + b \cdot a^{2} + b \cdot 2ab + b \cdot b^{2} \\ 
+= a^{3}+ 2a^{2}b + ab^{2} + ba^{2} + 2ab^{2} + b^{3} \\ 
+=a^{3}+2a^{2}b+ab^{2}+a^{2}b+2ab^{2}+b^{3} \\ 
+=a^{3}+3a^{2}b+3ab^{2}+b^{3}$ \\\\
+\textbf{Ejemplos:} \\\\
+Calcule el valor de $(2t+q)^{3}$ \\\\
+Forma larga: $(2t+q)^{3} \\
+=(2t+q)(2t+q)^{2} \\ 
+=(2t+q)((2t)^{2}+2\cdot (2t) \cdot q+q^{2}) \\
+=(2t+q)(4t^{2}+4tq+q^{2}) \\
+=(2t) \cdot 4t^{2} + (2t) \cdot 4tq + (2t) \cdot q^{2} + q \cdot 4t^{2} + q \cdot 4tq + q \cdot q^{2} \\
+= 8t^{3} + 8t^{2}q +  2tq^{2} + q4t^{2} + 4tq^{2} + q^{3} \\
+= 8t^{3} + 8t^{2}q +  2tq^{2} + 4t^{2}q + 4tq^{2} + q^{3} \\
+= 8t^{3} + 12t^{2}q + 6tq^{2} + q^{3}$ \\\\
+Forma corta: $(2t+q)^{3} \\
+= (2t)^{3}+ 3\cdot (2t)^{2} \cdot q + 3\cdot (2t) \cdot q^{2} + q^{3} \\
+= 8t^{3}+ 3\cdot 4t^{2} \cdot q + 6tq^{2} + q^{3} \\
+= 8t^{3}+12t^{2}q+6tq^{2}+q^{3}$ \\\\
+Para Concluir este item podemos decir que el cubo de la suma de un binomio se puede calcular diciendo que es, el cubo del primer monomio mas el triple del primer monomio al cuadrado por el segundo mas el triple del primer monomio por el segundo al cuadrado mas el cubo del segundo. \\\\
+\textbf{Diferencia de un cubo de binomio:} \\\\
+Dado el producto $(a-b)^{3}$ podemos escribirlo como $(a-b)(a-b)(a-b)=(a-b)(a-b)^{2}$. Desarrollando esta multiplicación obtenemos: \\\\
+$(a-b)^{3} \\
+=(a-b)(a-b)^{2} \\ 
+=(a-b)(a^{2}-2ab+b^{2}) \\
+=a \cdot a^{2} + a \cdot -2ab + a \cdot b^{2} - b \cdot a^{2} - b \cdot -2ab - b \cdot b^{2} \\ 
+= a^{3}- 2a^{2}b + ab^{2} - ba^{2} + 2ab^{2} - b^{3} \\ 
+=a^{3}-2a^{2}b+ab^{2}-a^{2}b+2ab^{2}-b^{3} \\ 
+=a^{3}-3a^{2}b+3ab^{2}-b^{3}$ \\\\
+\textbf{Ejemplos:} \\\\
+Calcule el valor de $(m-5n)^{3}$ \\\\
+Forma larga: $(m-5n)^{3} \\
+=(m-5n)(m-5n)^{2} \\ 
+=(m-5n)(m^{2}-2\cdot m \cdot (5n)+(5n)^{2}) \\
+=(m-5n)(m^{2}-10mn+25n^{2}) \\
+=m \cdot m^{2} + m \cdot (-10mn) + m \cdot 25n^{2} - 5n \cdot m^{2} -5n \cdot (-10mn) -5n \cdot 25n^{2} \\
+= m^{3} - 10m^{2}n +  25mn^{2} - 5nm^{2} + 50mn^{2} -125n^{3} \\
+= m^{3} - 10m^{2}n +  25mn^{2} - 5m^{2}n + 50mn^{2} -125n^{3} \\
+= m^{3} -15m^{2}n + 75mn^{2} -125n^{3}$ \\\\
+Forma corta: $(m-5n)^{3} \\
+= m^{3}- 3\cdot m^{2} \cdot 5n + 3\cdot m \cdot (5n)^{2} - (5n)^{3} \\
+= m^{3}- 3\cdot m^{2} \cdot 5n + 3\cdot m \cdot 25n^{2} - 125n^{3} \\
+= m^{3}-15m^{2}n+75mn^{2}-125n^{3}$ \\\\
+Para Concluir este item podemos decir que la diferencia de un cubo de binomio se puede calcular diciendo que es, el cubo del primer monomio menos el triple del primer monomio al cuadrado por el segundo mas el triple del primer monomio por el segundo al cuadrado menos el cubo del segundo. \\\\
+\textbf{Productos de dos binomios de la forma $(x+a)(x-b)$:} \\\\
+Para efectuar un producto de dos binomios con término común se tiene que identificar el término común, en este caso $x$, luego se aplica la fórmula siguiente: $(x+a)(x-b)=x^{2}+(a-b)x+ab$ \\\\
+\textbf{Ejemplos:} \\\\
+Forma larga: $(x-2)(x+3)=x \cdot (x+3) -2 \cdot (x+3)=x^{2}+3x-2x-6=x^{2}+x-6$ \\
+Forma corta: $(x-2)(x+3)=x^{2}+(-2+3)x+(-2\cdot 3)=x^{2}+x-6$ \\\\
+\textbf{Criterios de factorización:}\\\\
+Cada producto notable corresponde a una fórmula de factorización.\\\\
+\textbf{Ejemplos:}
+\begin{enumerate}
+\item \textbf{Factor común:} Es el proceso de escribir un polinomio como producto de factores.
+\begin{enumerate}
+\item $ab+ac=a(b+c)$
+\item $a^{2}b^{3}c+a^{5}b^{2}c^{2}=a^{2}b^{2}c(b+a^{3}c)$
+\item $xm+xp-2xq=x(m+p-2q$
+\item $7x{^3}-14x^{2}p^{3}+49xh=7x(x^{2}-2xp^{3}+7h)$
+\end{enumerate}
+\item \textbf{Cuadrado de binomio:} es cuando tenemos un polinomio de la forma $a^{2}+2ab+b^{2}$ y por criterio del producto notable \textbf{cuadrado de la suma} sabemos que eso queda escrito como $(a+b)^{2}$
+\begin{enumerate}
+\item $x^{2}+2xy+y^{2}=(x+y)^{2}=(x+y)(x+y)$
+\item $4m^{2}+12mn+9n^{2}=(2m+3n)^{2}=(2m+3n)(2m+3n)$
+\item $16k^{2}+24kp+9p^{2}=(4k+3p)^{2}=(4k+3p)(4k+3p)$
+\end{enumerate}
+\item \textbf{Cuadrado de binomio:} es cuando tenemos un polinomio de la forma $a^{2}-2ab+b^{2}$ y por criterio del producto notable \textbf{cuadrado de la diferencia} sabemos que eso queda escrito como $(a-b)^{2}$
+\begin{enumerate}
+\item $x^{2}-2xy+y^{2}=(x-y)^{2}=(x-y)(x-y)$
+\item $4m^{2}-12mn+9n^{2}=(2m-3n)^{2}=(2m-3n)(2m-3n)$
+\item $16k^{2}-24kp+9p^{2}=(4k-3p)^{2}=(4k-3p)(4k-3p)$
+\end{enumerate}
+\item \textbf{Diferencia de cuadrados:} es cuando tenemos un polinomio de la forma $x^{2}-y^{2}$ y por criterio anteriormente visto sabemos que se puede escribir como $(x+y)(x-y)$
+\begin{enumerate}
+\item $4a^{2}-9y^{2}=(2a-3b)(2a+3b)$
+\item $16j^{2}-25w^{2}=(4j+5w)(4j-5w)$
+\item $144p^{4}-169t^{6}=(12p^{2}+13t^{3})(12p^{2}-13t^{3})$
+\end{enumerate}
+\item Los otros criterios de factorización se iran trabajando a medidas que se necesiten, pero para ello hay que estudiar los productos notables y saber que para factorizar solo hay que devolverse. 
+\end{enumerate}
+
+\end{document}
