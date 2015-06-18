@@ -74,15 +74,11 @@
       </div>
     </nav>
     <div class="container" role="main">
-		<div class="row">
 			<?= $tpl_content; ?>
-        </div>
-        <div class="row">
             <footer>
                 <hr />
                 <p>&copy; Nicolás González</p>
             </footer>
-        </div>
 	</div>
 </body>
 </html>
