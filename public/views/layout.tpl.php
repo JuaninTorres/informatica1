@@ -11,6 +11,9 @@
     	<script src="/components/vendor/html5shiv/dist/html5shiv.min.js"></script>
     	<script src="/components/vendor/respond/dest/respond.min.js"></script>
     <![endif]-->
+    
+	<script src="/components/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="/components/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
 <body role="document">
 	<!-- Fixed navbar -->
@@ -23,25 +26,47 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Nicolas Gonzalez</a>
+          <a class="navbar-brand" href="/">Nicolas Gonzalez</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Números <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a href="/numeros/definicion_de_conjunto">Definición de Conjunto</a></li>
+			    <li><a href="/numeros/transformacion_decial_a_fraccion">Tranformación de decimal a fracción</a></li>
+			    <li><a href="/numeros/operatoria_en_q">Operatoria en Q</a></li>
+			    <li><a href="/numeros/problemas_de_planteo">Problemas de Planteo</a></li>
+			    <li><a href="/numeros/potencias_en_z">Potencias en Z</a></li>
+			    <li><a href="/numeros/raices">Raices</a></li>
+			    <li><a href="/numeros/logaritmos">Logaritmos</a></li>
               </ul>
             </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Álgebra <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/algebra/definicion">Definición</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Funciones <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/funciones/definicion">Definición</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Geometría <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/geometria/definicion">Definición</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Datos y Azar <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/datos_azar/definicion">Definición</a></li>
+              </ul>
+            </li>
+            <li><a href="/contacto">Contacto <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -57,7 +82,5 @@
             </footer>
         </div>
 	</div>
-	<script src="/components/vendor/jquery/dist/jquery.min.js"></script>
-    <script src="/components/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
