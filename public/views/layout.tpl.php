@@ -2,6 +2,8 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Informática Educativa I</title>
 	<link href="/components/vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="/components/vendor/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet">
@@ -11,7 +13,7 @@
     	<script src="/components/vendor/html5shiv/dist/html5shiv.min.js"></script>
     	<script src="/components/vendor/respond/dest/respond.min.js"></script>
     <![endif]-->
-    
+
 	<script src="/components/vendor/jquery/dist/jquery.min.js"></script>
     <script src="/components/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
