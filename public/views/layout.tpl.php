@@ -35,11 +35,11 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Números <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="/numeros/definicion_de_conjunto">Definición de Conjunto</a></li>
-			    <li><a href="/numeros/transformacion_decial_a_fraccion">Tranformación de decimal a fracción</a></li>
-			    <li><a href="/numeros/operatoria_en_q">Operatoria en Q</a></li>
-			    <li><a href="/numeros/problemas_de_planteo">Problemas de Planteo</a></li>
-			    <li><a href="/numeros/potencias_en_z">Potencias en Z</a></li>
+                <li><a href="/numeros/definicion-de-conjunto">Definición de Conjunto</a></li>
+			    <li><a href="/numeros/transformacion-decial-a-fraccion">Tranformación de decimal a fracción</a></li>
+			    <li><a href="/numeros/operatoria-en-q">Operatoria en Q</a></li>
+			    <li><a href="/numeros/problemas-de-planteo">Problemas de Planteo</a></li>
+			    <li><a href="/numeros/potencias-en-z">Potencias en Z</a></li>
 			    <li><a href="/numeros/raices">Raices</a></li>
 			    <li><a href="/numeros/logaritmos">Logaritmos</a></li>
               </ul>
@@ -47,25 +47,31 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Álgebra <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="/algebra/definicion">Definición</a></li>
+                <li><a href="/algebra/productos-notables-y-criterios-de-factorizacion">Productos notables y criterios de factorización</a></li>
+                <li><a href="/algebra/ecuaciones-de-primer-grado">Ecuaciones de primer grado</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Funciones <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="/funciones/definicion">Definición</a></li>
+                <li><a href="/funciones/funcion-cuadratica">Función Cuadrática</a></li>
+                <li><a href="/funciones/funcion-logaritmo">Función Logaritmo</a></li>
+                <li><a href="/funciones/funcion-potencia">Función Potencia</a></li>
+                <li><a href="/funciones/funcion-raiz">Función Raíz</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Geometría <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="/geometria/definicion">Definición</a></li>
+                <li><a href="/geometria/angulos-en-la-circunferencia">Ángulos en la circunferencia</a></li>
+                <li><a href="/geometria/geometria-analitica">Geometría analítica</a></li>
+                <li><a href="/geometria/teorema-de-euclides">Teorema de Euclides</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Datos y Azar <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="/datos_azar/definicion">Definición</a></li>
+                <li><a href="/datos-azar/definicion">Definición</a></li>
               </ul>
             </li>
             <li><a href="/contacto">Contacto <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>

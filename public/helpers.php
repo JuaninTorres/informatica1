@@ -1,6 +1,11 @@
 <?php
 
-// Declarando una funcion
+/**
+ * Llamada a las vistas
+ *
+ * @param $template
+ * @param array $vars
+ */
 function view($template, $vars = array())
 {
     extract($vars);
@@ -8,6 +13,11 @@ function view($template, $vars = array())
     require "views/$template.tpl.php";
 }
 
+/**
+ * Llamada al controlador
+ *
+ * @param $name
+ */
 function controller($name)
 {
     if (empty($name))
@@ -28,9 +38,13 @@ function controller($name)
     }
 }
 
+/**
+ * Función de debug
+ *
+ * @param $vars
+ */
 function dd($vars)
 {
     var_dump($vars);
-
     die(1);
 }

@@ -1,15 +1,12 @@
 <?php
 
-class NumerosController {
-    
-    public function indexAction()
-    {
-        return new View('numeros');
-    }
+class NumerosController extends Controller{
 
-    public function definicion_de_conjuntoAction()
-    {
-        return new View('numeros.definicion_de_conjunto');
-    }
+    /**
+     * Prefijo que llevan las vistas estaticas
+     *
+     * @var string
+     */
+    protected $prefixDefaultView = 'numeros';
 
 }

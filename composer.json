@@ -4,6 +4,10 @@
         {
             "name": "Juan Torres",
             "email": "juanin.torres@gmail.com"
+        },
+        {
+          "name": "Nicolás González",
+          "email": "nicolas.gonzalez.martinez@gmail.com"
         }
     ],
     "require": {}

@@ -1,6 +1,6 @@
 <?php
 
-class ContactoController {
+class ContactoController extends Controller{
 
     public function indexAction()
     {

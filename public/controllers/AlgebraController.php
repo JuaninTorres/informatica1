@@ -1,12 +1,13 @@
 <?php
 
-class HomeController extends Controller{
+class AlgebraController extends Controller{
 
     /**
      * Prefijo que llevan las vistas estaticas
      *
      * @var string
      */
-    protected $prefixDefaultView = 'home';
+    protected $prefixDefaultView = 'algebra';
+
 
 }

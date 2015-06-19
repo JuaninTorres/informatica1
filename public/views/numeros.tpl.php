@@ -2,11 +2,11 @@
     <h1>Números</h1>
 </div>
 <ul>
-    <li>Definición de Conjunto</li>
-    <li>Tranformación de decimal a fracción</li>
-    <li>Operatoria en Q</li>
-    <li>Problemas de Planteo</li>
-    <li>Potencias en Z</li>
-    <li>Raices</li>
-    <li>Logaritmos</li>
+    <li><a href="/numeros/definicion-de-conjunto">Definición de Conjunto</a></li>
+    <li><a href="/numeros/transformacion-decial-a-fraccion">Tranformación de decimal a fracción</a></li>
+    <li><a href="/numeros/operatoria-en-q">Operatoria en Q</a></li>
+    <li><a href="/numeros/problemas-de-planteo">Problemas de Planteo</a></li>
+    <li><a href="/numeros/potencias-en-z">Potencias en Z</a></li>
+    <li><a href="/numeros/raices">Raices</a></li>
+    <li><a href="/numeros/logaritmos">Logaritmos</a></li>
 </ul>
