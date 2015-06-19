@@ -24,6 +24,11 @@
                             Apunte 1
                         </a>
                     </li>
+                    <li>
+                        <a href="/textos/numeros/1_definicion_de_conjunto/definicion_de_conjuntos_ver1.pdf" download="download"/>
+                            Apunte 1
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
