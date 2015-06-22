@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-<div class="page-header">
-    <h1>Logaritmos</h1>
-=======
 <div class="jumbotron">
     <div class="container">
         <h1>Logaritmos</h1>
     </div>
->>>>>>> origin/master
 </div>
 
 <div class="row">
@@ -25,11 +20,7 @@
             <div class="panel-body">
                 <ul>
                     <li>
-<<<<<<< HEAD
                         <a href="/textos/numeros/7_logaritmos/logaritmos_ver1.pdf" download="download"/>
-=======
-                        <a href="/textos/numeros/1_definicion_de_conjunto/definicion_de_conjuntos_ver1.pdf" download="download"/>
->>>>>>> origin/master
                             Apunte 1
                         </a>
                     </li>
@@ -52,5 +43,4 @@
             </div>
         </div>
     </div>
-
 </div>
