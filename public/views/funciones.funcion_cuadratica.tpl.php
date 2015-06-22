@@ -20,7 +20,7 @@
             <div class="panel-body">
                 <ul>
                     <li>
-                        <a href="/textos/funcione/funcion_cuadratica/guia_de_funciones.pdf" download/>
+                        <a href="/textos/funciones/funcion_cuadratica/guia_de_funciones.pdf" download/>
                             Apunte 1
                         </a>
                     </li>
