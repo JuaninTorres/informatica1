@@ -1,3 +1,47 @@
-<div class="page-header">
-    <h1>Definición de Conjunto</h1>
+<div class="jumbotron">
+    <div class="container">
+        <h1>Transformación de Decimales a Fracción</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
+        <h2>Definiciones</h2>
+        <p>Aquí debo colocar un texto interesante</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">Apuntes</h3>
+            </div>
+            <div class="panel-body">
+                <ul>
+                    <li>
+                        <a href="/textos/numeros/2_transformacion_de_decimales_a_fraccion/decimales_a_fraccion.pdf" download/>
+                            Apuntes
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Guías</h3>
+            </div>
+            <div class="panel-body">
+                 <ul>
+                    <li>
+                        <a href="/textos/numeros/2_transformacion_de_decimales_a_fraccion/decimales_a_fraccion.pdf" download/>
+                            Apuntes
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
