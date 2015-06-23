@@ -34,13 +34,7 @@
                 <h3 class="panel-title">Guías</h3>
             </div>
             <div class="panel-body">
-                 <ul>
-                    <li>
-                        <a href="/textos/numeros/2_transformacion_de_decimales_a_fraccion/decimales_a_fraccion.pdf" download/>
-                            Apuntes
-                        </a>
-                    </li>
-                </ul>
+               
             </div>
         </div>
     </div>
