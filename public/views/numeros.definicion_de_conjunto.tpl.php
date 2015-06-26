@@ -21,7 +21,7 @@
     <div class="col-sm-6">
         <div class="panel panel-primary">
             <div class="panel-heading">
-                <h3 class="panel-title">Apuntes</h3>
+                <h3 class="panel-title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Apuntes</h3>
             </div>
             <div class="panel-body">
                 <ul>
@@ -37,7 +37,7 @@
     <div class="col-sm-6">
         <div class="panel panel-info">
             <div class="panel-heading">
-                <h3 class="panel-title">Guías</h3>
+                <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="panel-body">
 
