@@ -1,7 +1,7 @@
 <ol class="breadcrumb">
     <li><a href="/">Principal</a></li>
     <li><a href="/funciones">Funciones</a></li>
-    <li class="active">Función Logaritmo</li>
+    <li class="active">Función Potencia</li>
 </ol>
 
 <div class="jumbotron">
