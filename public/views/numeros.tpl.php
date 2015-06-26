@@ -9,12 +9,12 @@
     </div>
 </div>
 
-<ul class="list-group">
-    <li class="list-group-item"><a href="/numeros/definicion-de-conjunto">Definición de Conjunto</a></li>
-    <li class="list-group-item"><a href="/numeros/transformacion-decial-a-fraccion">Tranformación de decimal a fracción</a></li>
-    <li class="list-group-item"><a href="/numeros/operatoria-en-q">Operatoria en Q</a></li>
-    <li class="list-group-item"><a href="/numeros/problemas-de-planteo">Problemas de Planteo</a></li>
-    <li class="list-group-item"><a href="/numeros/potencias-en-z">Potencias en Z</a></li>
-    <li class="list-group-item"><a href="/numeros/raices">Raices</a></li>
-    <li class="list-group-item"><a href="/numeros/logaritmos">Logaritmos</a></li>
-</ul>
+<div class="list-group">
+    <a class="list-group-item" href="/numeros/definicion-de-conjunto">Definición de Conjunto</a>
+    <a class="list-group-item" href="/numeros/transformacion-decial-a-fraccion">Tranformación de decimal a fracción</a>
+    <a class="list-group-item" href="/numeros/operatoria-en-q">Operatoria en Q</a>
+    <a class="list-group-item" href="/numeros/problemas-de-planteo">Problemas de Planteo</a>
+    <a class="list-group-item" href="/numeros/potencias-en-z">Potencias en Z</a>
+    <a class="list-group-item" href="/numeros/raices">Raices</a>
+    <a class="list-group-item" href="/numeros/logaritmos">Logaritmos</a>
+</div>
