@@ -1,6 +1,14 @@
-<div class="page-header">
-    <h1>Números</h1>
+<ol class="breadcrumb">
+    <li><a href="/">Principal</a></li>
+    <li class="active">Números</li>
+</ol>
+
+<div class="jumbotron">
+    <div class="container">
+        <h1>Números</h1>
+    </div>
 </div>
+
 <ul>
     <li><a href="/numeros/definicion-de-conjunto">Definición de Conjunto</a></li>
     <li><a href="/numeros/transformacion-decial-a-fraccion">Tranformación de decimal a fracción</a></li>

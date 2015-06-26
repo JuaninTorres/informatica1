@@ -1,3 +1,9 @@
+<ol class="breadcrumb">
+    <li><a href="/">Principal</a></li>
+    <li><a href="/numeros">Números</a></li>
+    <li class="active">Transformación de Decimales a Fracción</li>
+</ol>
+
 <div class="jumbotron">
     <div class="container">
         <h1>Transformación de Decimales a Fracción</h1>
