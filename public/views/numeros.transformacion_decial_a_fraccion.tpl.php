@@ -24,10 +24,10 @@
                 <h3 class="panel-title">Apuntes</h3>
             </div>
             <div class="panel-body">
-                <ul>
-                    <li>
+                <ul> 
+                    <li> 
                         <a href="/textos/numeros/2_transformacion_de_decimales_a_fraccion/decimales_a_fraccion.pdf" download/>
-                            Apuntes
+                            Apuntes 
                         </a>
                     </li>
                 </ul>
