@@ -1,5 +1,11 @@
-<div class="page-header">
-    <h1>Contacto</h1>
+<ol class="breadcrumb">
+    <li><a href="/">Principal</a></li>
+    <li class="active">Contacto</li>
+</ol>
+<div class="jumbotron">
+    <div class="container">
+        <h1>Contacto</h1>
+    </div>
 </div>
 <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
