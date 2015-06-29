@@ -1,9 +1,17 @@
-<div class="page-header">
-    <h1>Funciones</h1>
+<ol class="breadcrumb">
+    <li><a href="/">Principal</a></li>
+    <li class="active">Funciones</li>
+</ol>
+
+<div class="jumbotron">
+    <div class="container">
+        <h1>Funciones</h1>
+    </div>
 </div>
-<ul>
-    <li><a href="/funciones/funcion-cuadratica">Función Cuadrática</a></li>
-    <li><a href="/funciones/funcion-logaritmo">Función Logaritmo</a></li>
-    <li><a href="/funciones/funcion-potencia">Función Potencia</a></li>
-    <li><a href="/funciones/funcion-raiz">Función Raíz</a></li>
-</ul>
+
+<div class="list-group">
+    <a class="list-group-item" href="/funciones/funcion-cuadratica">Función Cuadrática</a>
+    <a class="list-group-item" href="/funciones/funcion-logaritmo">Función Logaritmo</a>
+    <a class="list-group-item" href="/funciones/funcion-potencia">Función Potencia</a>
+    <a class="list-group-item" href="/funciones/funcion-raiz">Función Raíz</a>
+</div>

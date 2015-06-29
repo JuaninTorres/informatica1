@@ -12,7 +12,6 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <h2>Definiciones</h2>
         <p>Aquí debo colocar un texto interesante</p>
     </div>
 </div>
@@ -23,14 +22,8 @@
             <div class="panel-heading">
                 <h3 class="panel-title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Apuntes</h3>
             </div>
-            <div class="panel-body">
-                <ul>
-                    <li>
-                        <a href="/textos/numeros/1_definicion_de_conjunto/definicion_de_conjuntos_ver1.pdf" download="download"/>
-                            Apunte 1
-                        </a>
-                    </li>
-                </ul>
+            <div class="list-group">
+                <a class="list-group-item" href="/textos/numeros/1_definicion_de_conjunto/definicion_de_conjuntos_ver1.pdf" download>Apunte 1</a>
             </div>
         </div>
     </div>
@@ -39,10 +32,8 @@
             <div class="panel-heading">
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
-            <div class="panel-body">
-
+            <div class="list-group">
             </div>
         </div>
     </div>
-
 </div>

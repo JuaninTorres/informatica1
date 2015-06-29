@@ -43,6 +43,7 @@
 			    <li><a href="/numeros/problemas-de-planteo">Problemas de Planteo</a></li>
 			    <li><a href="/numeros/potencias-en-z">Potencias en Z</a></li>
 			    <li><a href="/numeros/raices">Raices</a></li>
+			    <li><a href="/numeros/logaritmos">Logaritmos</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -69,13 +70,7 @@
                 <li><a href="/geometria/teorema-de-euclides">Teorema de Euclides</a></li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Datos y Azar <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="/datos-azar/definicion">Definición</a></li>
-              </ul>
-            </li>
-            <li><a href="/contacto">Contacto <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
+            <li><a href="/contacto"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contacto</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

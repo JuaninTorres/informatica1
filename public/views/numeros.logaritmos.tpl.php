@@ -21,16 +21,12 @@
     <div class="col-sm-6">
         <div class="panel panel-primary">
             <div class="panel-heading">
-                <h3 class="panel-title">Apuntes</h3>
+                <h3 class="panel-title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Apuntes</h3>
             </div>
-            <div class="panel-body">
-                <ul>
-                    <li>
-                        <a href="/textos/numeros/7_logaritmos/logaritmos_ver1.pdf" download="download"/>
-                            Apunte 1
-                        </a>
-                    </li>
-                </ul>
+            <div class="list-group">
+                <a class="list-group-item" href="/textos/numeros/7_logaritmos/logaritmos_ver1.pdf" download>
+                    Apunte 1
+                </a>
             </div>
         </div>
     </div>
@@ -39,8 +35,7 @@
             <div class="panel-heading">
                 <h3 class="panel-title">Guías</h3>
             </div>
-            <div class="panel-body">
-
+            <div class="list-group">
             </div>
         </div>
     </div>
