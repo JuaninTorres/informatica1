@@ -12,7 +12,6 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <h2>Definiciones</h2>
         <p>Aquí debo colocar un texto interesante</p>
     </div>
 </div>
