@@ -12,8 +12,7 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>La constante matemática e es uno de los más importantes números 
-        reales irracionales y trascendentes. </p>
+        <p>Aquí debo colocar un texto interesante</p>
     </div>
 </div>
 
@@ -24,9 +23,7 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Apuntes</h3>
             </div>
             <div class="list-group">
-                <a class="list-group-item" href="/textos/funciones/funcion_potencia/funcion.pdf" download>
-                <a class="list-group-item" href="/textos/funciones/funcion_potencia/guia_de_trigonometria.docx" download>
-                <a class="list-group-item" href="/textos/funciones/funcion_potencia/problemas_de_aplicacion_trigonometria.pdf" download>
+                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/guia_de_funciones.pdf" download>
                     Apuntes
                 </a>
             </div>
@@ -38,10 +35,6 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
-            <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_1.pdf" download>
-             <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_2.pdf" download>
-            <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_3.pdf" download>
-            <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_4.pdf" download>
             </div>
         </div>
     </div>
