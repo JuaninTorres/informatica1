@@ -6,13 +6,14 @@
 
 <div class="jumbotron">
     <div class="container">
-        <h1>Ángulos en la Circunferencia</h1>
+            <h1>Ángulos en la Circunferencia</h1>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+     <p>Si la gente no piensa que las matemáticas son simples, es sólo porque no se dan cuenta de lo complicada que es la vida.</p>
+            <footer>John Von Neumann</footer>
     </div>
 </div>
 

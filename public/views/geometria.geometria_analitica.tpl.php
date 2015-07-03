@@ -12,7 +12,8 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+    <p>Si la gente no piensa que las matemáticas son simples, es sólo porque no se dan cuenta de lo complicada que es la vida.</p>
+            <footer>John Von Neumann</footer>
     </div>
 </div>
 
@@ -37,6 +38,11 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
+            <a class="list-group-item" href="/textos/geometria/geometria_analitica/circunferencia.pdf" download>Circunferencia</a>
+                <a class="list-group-item" href="/textos/geometria/geometria_analitica/coordenadas_polares.pdf" download>Coordenadas polares</a>
+                <a class="list-group-item" href="/textos/geometria/geometria_analitica/ecuaciones_parametricas.pdf" download>Ecuaciones paramétricas</a>
+                <a class="list-group-item" href="/textos/geometria/geometria_analitica/elipse.pdf" download>Elipse</a>
+                <a class="list-group-item" href="/textos/geometria/geometria_analitica/linea_recta.pdf" download>Linea recta</a>
             </div>
         </div>
     </div>
