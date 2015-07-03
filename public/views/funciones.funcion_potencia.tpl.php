@@ -12,7 +12,10 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+        <p>La constante matemática e es uno de los más importantes números 
+        reales irracionales y trascendentes. Se relaciona con muchos interesantes resultados. 
+        Por ejemplo, la derivada de la función exponencial, es esa misma función. 
+        El logaritmo en base e, se llama logaritmo natural o neperiano.</p>
     </div>
 </div>
 
@@ -24,6 +27,8 @@
             </div>
             <div class="list-group">
                 <a class="list-group-item" href="/textos/funciones/funcion_potencia/funcion.pdf" download>
+                <a class="list-group-item" href="/textos/funciones/funcion_potencia/guia_de_trigonometria.docx" download>
+                <a class="list-group-item" href="/textos/funciones/funcion_potencia/problemas_de_aplicacion_trigonometria.pdf" download>
                     Apuntes
                 </a>
             </div>
@@ -35,6 +40,10 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
+            <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_1.pdf" download>
+             <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_2.pdf" download>
+            <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_3.pdf" download>
+            <a class="list-group-item" href="/textos/funciones/funcion_potencia/taller_4.pdf" download>
             </div>
         </div>
     </div>
