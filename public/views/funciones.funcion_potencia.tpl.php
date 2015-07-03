@@ -13,9 +13,7 @@
 <div class="row">
     <div class="col-sm-12">
         <p>La constante matemática e es uno de los más importantes números 
-        reales irracionales y trascendentes. Se relaciona con muchos interesantes resultados. 
-        Por ejemplo, la derivada de la función exponencial, es esa misma función. 
-        El logaritmo en base e, se llama logaritmo natural o neperiano.</p>
+        reales irracionales y trascendentes. </p>
     </div>
 </div>
 
