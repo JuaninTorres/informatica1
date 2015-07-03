@@ -24,6 +24,8 @@
             </div>
             <div class="list-group">
                 <a class="list-group-item" href="/textos/algebra/1_productos_notables_y_criterios_de_factorizacion/productos_notables_y_criterios_de_factorizacion_ver1.pdf" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/algebra/1_productos_notables_y_criterios_de_factorizacion/factorizacion_2.doc" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/algebra/1_productos_notables_y_criterios_de_factorizacion/ejercicios1.pdf" download>Apunte 1</a>
             </div>
         </div>
     </div>
@@ -33,6 +35,10 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
+            <a class="list-group-item" href="/textos/algebra/1_productos_notables_y_criterios_de_factorizacion/productos_notables_y_criterios_de_factorizacion_ver1.pdf" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/algebra/1_productos_notables_y_criterios_de_factorizacion/factorizacion_2.doc" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/algebra/1_productos_notables_y_criterios_de_factorizacion/ejercicios1.pdf" download>Apunte 1</a>
+
             </div>
         </div>
     </div>
