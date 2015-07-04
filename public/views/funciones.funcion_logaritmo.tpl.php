@@ -23,9 +23,9 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Apuntes</h3>
             </div>
             <div class="list-group">
-                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/guia_de_funciones.pdf" download>
-                    Apuntes
-                </a>
+                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/ejer_funciones.pdf" download> Apuntes 1</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/exponencial.pdf" download> Apuntes 2</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/logaritmos_conceptos.pdf" download> Apuntes 3</a>
             </div>
         </div>
     </div>
@@ -35,6 +35,9 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
+            <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/ejer_funciones.pdf" download> Guía 1</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/exponencial.pdf" download> Guía 2</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_logaritmo/logaritmos_conceptos.pdf" download> Guía 3</a>
             </div>
         </div>
     </div>

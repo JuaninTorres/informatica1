@@ -23,7 +23,9 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Apuntes</h3>
             </div>
             <div class="list-group">
-                <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/guia_de_funciones.pdf" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/ejer_funciones.pdf" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/funciones.pdf" download>Apunte 2</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/guia_de_funciones.pdf" download>Apunte 3</a>
             </div>
         </div>
     </div>
@@ -33,6 +35,9 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
+            <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/ejer_funciones.pdf" download>Guía 1</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/funciones.pdf" download>Guía 2</a>
+                <a class="list-group-item" href="/textos/funciones/funcion_cuadratica/guia_de_funciones.pdf" download>Guía 3</a>
             </div>
         </div>
     </div>
