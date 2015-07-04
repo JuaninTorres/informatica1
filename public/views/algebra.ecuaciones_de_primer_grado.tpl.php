@@ -40,7 +40,7 @@
              <a class="list-group-item" href="/textos/algebra/2_ecuaciones_de_primer_grado/ecuaciones_de_primer_grado_ver1.pdf" download>Guía 1</a>
                 <a class="list-group-item" href="/textos/algebra/2_ecuaciones_de_primer_grado/ecu_lin_2_y_3_ing.pdf" download>Guía 2</a>
                 <a class="list-group-item" href="/textos/algebra/2_ecuaciones_de_primer_grado/ejer_frac_alge.pdf" download>Guía 3</a>
-                <a class="list-group-item" href="/textos/algebra/2_ecuaciones_de_primer_grado/ejer_sis_ecua_.pdf" download>Guía 4</a>
+               
             </div>
         </div>
     </div>
