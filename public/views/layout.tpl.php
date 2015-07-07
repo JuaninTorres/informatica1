@@ -70,6 +70,7 @@
                 <li><a href="/geometria/teorema-de-euclides">Teorema de Euclides</a></li>
               </ul>
             </li>
+            <li><a href="/material-apoyo"><span class="glyphicon glyphicon-film" aria-hidden="true"></span> Material de Apoyo</a></li>
             <li><a href="/contacto"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contacto</a></li>
           </ul>
         </div><!--/.nav-collapse -->
