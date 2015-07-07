@@ -1,6 +1,6 @@
 <ol class="breadcrumb">
     <li><a href="/">Principal</a></li>
-    <li class="active">Números</li>
+    <li class="active">Material de Apoyo</li>
 </ol>
 
 <div class="jumbotron">
