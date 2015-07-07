@@ -15,9 +15,9 @@
             <h3>Números</h3>
              <h4>Logaritmos</h4>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/3daASOhcRRQ" frameborder="0" allowfullscreen></iframe>
-            <iframe width="280" height="158" src="https://www.youtube.com/watch?v=jl8xT_QtDJE" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/3daASOhcRRQ" frameborder="0" allowfullscreen></iframe>
            
-            <h4>Operatoria en Q</h4>
+           <h4>Operatoria en Q</h4>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/kxDeTxbnk-c" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
