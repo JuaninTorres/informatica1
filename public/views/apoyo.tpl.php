@@ -34,10 +34,11 @@
             <iframe width="280" height="158" src="https://www.youtube.com/embed/h4gt8tsVJbw" frameborder="0" allowfullscreen></iframe>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/BdRAhV0JDjM" frameborder="0" allowfullscreen></iframe>
              <h4>Productos Notables y Criterios de Factorización</h4>
-             <iframe width="280" height="158" src="https://www.youtube.com/embed/FFUw7FsECfQ&index=15&list=PL9B9AC3136D2D4C45" frameborder="0" allowfullscreen></iframe>
-            
-           
-           </div>
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/nFWyn0j8Flw" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/Zlh3Pu7cbq0" frameborder="0" allowfullscreen></iframe>
+           <iframe width="280" height="158" src="https://www.youtube.com/embed/EvdViK983Jk" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/XrfXXaB1Hzo" frameborder="0" allowfullscreen></iframe>
+          </div>
     </div>
     <div class="col-md-3">
         <div class="content">
@@ -53,7 +54,23 @@
         <div class="content">
             <h3>Geometría</h3>
              <h4>Teorema de Pitagoras</h4>
+
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/25VPnBQD3LA" frameborder="0" allowfullscreen></iframe>
+           <iframe width="280" height="158" src="https://www.youtube.com/embed/h-hiBtE_CVA" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/IL8cCsfJpvI" frameborder="0" allowfullscreen></iframe>
+          
               <h4>Teorema de Thales</h4>
+
+              <iframe width="280" height="158" src="https://www.youtube.com/embed/YvUwxGs8n30" frameborder="0" allowfullscreen></iframe>
+           <iframe width="280" height="158" src="https://www.youtube.com/embed/NoiOPdYtT1o" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/4L6H9sEnmyg" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+
                <h4>Teorema de Euclides</h4>
                 <h4>Geometria Analitica</h4>
         </div>
