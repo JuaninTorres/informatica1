@@ -10,7 +10,7 @@
 </div>
 
 <div class="row">
-    <div class="col-md-3">
+    <div class="col-lg-3">
         <div class="content">
             <h3>Números</h3>
             <h4>Potencias</h4>
@@ -27,7 +27,7 @@
             <iframe width="280" height="158" src="https://www.youtube.com/embed/kxDeTxbnk-c" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3">
         <div class="content">
             <h3>Álgebra</h3>
              <h4>Ecuaciones de Primer Grado</h4>
@@ -40,7 +40,7 @@
             <iframe width="280" height="158" src="https://www.youtube.com/embed/XrfXXaB1Hzo" frameborder="0" allowfullscreen></iframe>
           </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3">
         <div class="content">
             <h3>Funciones</h3>
              <h4>Función Cuadrática</h4>
@@ -50,7 +50,7 @@
             <iframe width="280" height="158" src="https://www.youtube.com/embed/E6ysFJEIyEc" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3">
         <div class="content">
             <h3>Geometría</h3>
              <h4>Teorema de Pitagoras</h4>
