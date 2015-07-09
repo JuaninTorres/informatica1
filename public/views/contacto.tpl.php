@@ -9,7 +9,7 @@
 </div>
 <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
-        <form method="post">
+        <form method="post">  
             <div class="form-group ">
                 <label for="name" class="control-label">Nombre:</label>
                 <input class="form-control" name="name" type="text" id="name">

@@ -44,9 +44,12 @@
         <div class="content">
             <h3>Funciones</h3>
              <h4>Función Cuadrática</h4>
-              <h4>Función Logaritmo</h4>
-               <h4>Función Potencia</h4>
-                <h4>Función Raíz</h4>
+              <iframe width="280" height="158" src="https://www.youtube.com/embed/Ly-jE7Asxg0" frameborder="0" allowfullscreen></iframe>
+           <iframe width="280" height="158" src="https://www.youtube.com/embed/lCvNNK9pm0s" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/E6ysFJEIyEc" frameborder="0" allowfullscreen></iframe>
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/0pUnHF1FJ2s" frameborder="0" allowfullscreen></iframe>
+           
+              
             <iframe width="280" height="158" src="https://www.youtube.com/embed/E6ysFJEIyEc" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
