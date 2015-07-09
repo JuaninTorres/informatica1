@@ -6,12 +6,8 @@
 
 <div class="jumbotron">
     <div class="container">
-            <h1>Los babilonios también conocían las áreas delos triángulos 
-            y los rectángulos, sobre todo para resolver problemas de herencia, 
-            pero en especial ellos estudiaron muchos los círculos.
-Eran unos excelentes geometras ellos bautizaron las doce constelaciones 
-del zodíaco, dividiendo cada una de ellas en 30 partes iguales. Es decir, 
-dividieron el círculo zodiacal en 12 x 30 = 360 partes.</h1>
+            <h1>Los babilonios también conocían las áreas delos triángulos y los rectángulos, sobre todo para resolver problemas de herencia, 
+            pero en especial ellos estudiaron muchos los círculos. Eran unos excelentes geometras ellos bautizaron las doce constelaciones del zodíaco, dividiendo cada una de ellas en 30 partes iguales. Es decir, dividieron el círculo zodiacal en 12 x 30 = 360 partes.</h1>
     </div>
 </div>
 
