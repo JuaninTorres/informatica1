@@ -9,7 +9,10 @@
         <section>
             <article>
                 <h2>Bienvenidos</h2>
-                <p>Aqui debo colocar un texto de bienvenida</p>
+                <p>Deseo que esto que hoy inicio se convierta en un pequeño 
+                granito de arena, y que sirva para que quienes tienen los mismos 
+                intereses integren esta comunidad virtual que por ahora, 
+                como se imaginan, cuenta con un único socio dispuesto a seguir adelante.</p>
             </article>
         </section>
     </div>
