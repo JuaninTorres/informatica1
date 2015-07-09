@@ -33,9 +33,11 @@
              <h4>Ecuaciones de Primer Grado</h4>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/h4gt8tsVJbw" frameborder="0" allowfullscreen></iframe>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/BdRAhV0JDjM" frameborder="0" allowfullscreen></iframe>
-             <h4>Productos Notables</h4>
-            <h4>Factorización</h4>
-        </div>
+             <h4>Productos Notables y Criterios de Factorización</h4>
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/FFUw7FsECfQ&index=15&list=PL9B9AC3136D2D4C45" frameborder="0" allowfullscreen></iframe>
+            
+           
+           </div>
     </div>
     <div class="col-md-3">
         <div class="content">
