@@ -15,9 +15,14 @@
             <h3>Números</h3>
             <h4>Potencias</h4>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/rhfNNh-alBI" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/mQiYuVeXZxM" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/KDDcZCvgx5k" frameborder="0" allowfullscreen></iframe>
 
-            <h4>Raices</h4>
             <h4>Logaritmos</h4>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/gdcMNx1ptME" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/LW_sP5jDBQA" frameborder="0" allowfullscreen></iframe>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/yLoA7aEGJz0" frameborder="0" allowfullscreen></iframe>
+
             <h4>Operatoria en Q</h4>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/kxDeTxbnk-c" frameborder="0" allowfullscreen></iframe>
         </div>
