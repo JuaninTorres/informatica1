@@ -12,7 +12,10 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+        <p>Arquímedes y Stifel, los precursores. "Los orígenes del descubrimiento, 
+        o invención, de los logaritmos se remontan hasta los estudios de 
+        Arquímedes referidos a la comparación de las sucesiones 
+        aritméticas con las geométricas".</p>
     </div>
 </div>
 

@@ -12,7 +12,11 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+        <p>Desde el siglo XVII aC los matemáticos de Mesopotámia 
+        y de Babilonia ya sabían resolver ecuaciones. En el siglo XVI ac. los 
+        egipcios desarrollaron un álgebra muy elemental que usaron para resolver 
+        problemas cotidianos que tenían que ver con la repartición de víveres, 
+        de cosechas y de materiales.</p>
     </div>
 </div>
 

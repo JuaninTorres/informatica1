@@ -12,7 +12,8 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+        <p>Toda función cuadrática es una parábola, 
+        pero no asi toda parábola es una función cuadrática</p>
     </div>
 </div>
 

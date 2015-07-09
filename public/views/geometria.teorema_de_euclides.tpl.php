@@ -12,7 +12,12 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+        <p>Euclides se dió cuenta de que al trazar la altura con 
+        respecto a la hipotenusa en un triángulo rectángulo se da 
+        origen a dos triángulos más aparte del original , los cuales 
+        entre si son semejantes y a la vez son semejantes también con el 
+        triángulo original   , lo que implica que sus lados homólogos 
+        respectivos son proporcionales.</p>
     </div>
 </div>
 
