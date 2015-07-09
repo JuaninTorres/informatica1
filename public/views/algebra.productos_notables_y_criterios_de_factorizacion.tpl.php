@@ -12,7 +12,15 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <p>Aquí debo colocar un texto interesante</p>
+        <p>La historia de la factorización polinómica 
+        comienza con Hermann Schubert quien en 1793 describió 
+        el primer algoritmo de factorización de polinomios, 
+        y Leopold Kronecker, quien redescubrió el algoritmo de 
+        Schubert en 1882 y la amplió a polinomios multivariados y 
+        con coeficientes en una extensión algebraica. Pero 
+        la mayor parte de los conocimientos sobre este tema no es 
+        mayor que alrededor del año 1965 y los primeros 
+        sistemas de álgebra computacional. </p>
     </div>
 </div>
 

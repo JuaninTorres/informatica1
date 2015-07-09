@@ -6,8 +6,7 @@
 
 <div class="jumbotron">
     <div class="container">
-            <h1>Los babilonios también conocían las áreas delos triángulos y los rectángulos, sobre todo para resolver problemas de herencia, 
-            pero en especial ellos estudiaron muchos los círculos. Eran unos excelentes geometras ellos bautizaron las doce constelaciones del zodíaco, dividiendo cada una de ellas en 30 partes iguales. Es decir, dividieron el círculo zodiacal en 12 x 30 = 360 partes.</h1>
+            <h1>Ángulos en la Circunferencia</h1>
     </div>
 </div>
 
@@ -26,6 +25,13 @@
             </div>
             <div class="list-group">
                 <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 1</a>
+                <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 2</a>
+                <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 3</a>
+                <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 4</a>
+                <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 5</a>
+                <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 6</a>
+                <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Apunte 7</a>
+
             </div>
         </div>
     </div>
@@ -35,6 +41,21 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Guías</h3>
             </div>
             <div class="list-group">
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 1</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 2</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 3</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 4</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 5</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 6</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Guía 7</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Taller 1</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Taller 2</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Taller 3</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Taller 4</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Prueba 1</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Prueba 2</a>
+            <a class="list-group-item" href="/textos/geometria/angulos_en_la_circunferencia/angulos_en_la_circunferencia.pdf" download>Prueba 3</a>
+
             </div>
         </div>
     </div>
