@@ -14,7 +14,13 @@
         <div class="content">
             <h3>Números</h3>
             <h4>Potencias</h4>
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/sHU3X6fXYbE&index=1&list=PLOa7j0qx0jgM11o6GL6D_w7oM6RcXP3bz" frameborder="0" allowfullscreen></iframe>
+            
             <h4>Raices</h4>
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/oQRf4lSIfY4&index=5&list=PLOa7j0qx0jgM11o6GL6D_w7oM6RcXP3bz" frameborder="0" allowfullscreen></iframe>
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/n4LBiSxHv94&index=4&list=PLOa7j0qx0jgM11o6GL6D_w7oM6RcXP3bz" frameborder="0" allowfullscreen></iframe>
+             <iframe width="280" height="158" src="https://www.youtube.com/embed/KTdBezXCjk0&index=6&list=PLOa7j0qx0jgM11o6GL6D_w7oM6RcXP3bz" frameborder="0" allowfullscreen></iframe>
+            
             <h4>Logaritmos</h4>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/3daASOhcRRQ" frameborder="0" allowfullscreen></iframe>
             <iframe width="280" height="158" src="https://www.youtube.com/embed/jl8xT_QtDJE" frameborder="0" allowfullscreen></iframe>
